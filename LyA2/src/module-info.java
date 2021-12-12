@@ -1,0 +1,2 @@
+module lyA2 {
+}
